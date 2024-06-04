@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+padding: 0;
+}
+body{
+    background-color: yellowgreen;
+}
+.img-container{
+background: url(1.jpeg) center/cover fixed no-repeat;
+
+height: 500px;
+width: 700px;
+margin-top: 60px;
+margin-left: 380px;
+border: 8px solid orange;
+}
+.btn2{
+    margin-top: 200px;
+    float: right;
+}
+.btn1{
+    /* margin-left: 20px; */
+    margin-top: 200px;
+    float: left;
+}
+h1{
+    color: rgb(30, 132, 136);
+    margin-top: 10px;
+    margin-left: 500px;
+}
